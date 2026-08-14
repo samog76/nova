@@ -8,8 +8,8 @@ site with the same engine that powers Google Chrome.
 ## Preview
 
 <p align="center">
-  <img src="Screenshot%202026-06-18%20at%2009.52.03.png" width="48%" />
-  <img src="Screenshot%202026-06-18%20at%2009.52.27.png" width="48%" />
+  <img src="preview1.png" width="48%" />
+  <img src="preview2.png" width="48%" />
 </p>
 
 ## Design — "Aurora Glass"
