@@ -5,6 +5,13 @@ via [Electron](https://www.electronjs.org/). Not a wrapper around a single
 website — it has its own tab strip, address bar, and navigation, and renders any
 site with the same engine that powers Google Chrome.
 
+## Preview
+
+<p align="center">
+  <img src="Screenshot%202026-06-18%20at%2009.52.03.png" width="48%" />
+  <img src="Screenshot%202026-06-18%20at%2009.52.27.png" width="48%" />
+</p>
+
 ## Design — "Aurora Glass"
 
 A distinctive dark theme on a midnight base (`#0a0e27`) with aurora-tinted glow,
