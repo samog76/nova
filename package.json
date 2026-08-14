@@ -1,0 +1,12 @@
+{
+  "name": "chromium-browser",
+  "version": "1.0.0",
+  "description": "A minimal but complete desktop web browser built on Chromium via Electron.",
+  "main": "main.js",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@ghostery/adblocker-electron": "^2.18.0",
+    "cross-fetch": "^4.1.0"
+  }
+}

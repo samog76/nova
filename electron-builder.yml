@@ -1,0 +1,29 @@
+appId: com.nova.browser
+productName: Nova
+copyright: Copyright © 2026 Nova
+files:
+  - main.js
+  - preload.js
+  - nova-preload.js
+  - ui/**/*
+  - "!**/*.map"
+directories:
+  buildResources: build
+  output: dist
+mac:
+  category: public.app-category.utilities
+  icon: build/icon.icns
+  darkModeSupport: true
+  target:
+    - target: dmg
+      arch: arm64
+dmg:
+  title: Nova ${version}
+  icon: build/icon.icns
+  contents:
+    - x: 140
+      y: 200
+    - x: 400
+      y: 200
+      type: link
+      path: /Applications
